@@ -1,0 +1,172 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    overflow-x: hidden;
+  }
+
+
+  .desktop1
+  {
+    width:100%;
+    height:671.5px;
+    position: relative;
+    background: #272D27;
+  }
+
+  .Desktop1 {
+    width: 1440px;
+    height: 1024px;
+    position: relative;
+    background: #272D27;
+  }
+  
+  .Group2 {
+    width: 2567px;
+    height: 627px;
+    position: absolute;
+    opacity: 0.75;
+  }
+  
+  .Pitsacafe {
+    width: 1440px;
+    height: 470px;
+    position: absolute;
+    opacity: 0.38;
+  }
+  
+  .Group1 {
+    width: 856px;
+    height: 347px;
+    position: absolute;
+    left: 485px;
+    top: 92px;
+  }
+  
+  .Pitsa {
+    position: absolute;
+    left: 100px;
+    top: 70px;
+    opacity: 0.60;
+    color: #F8F8EC;
+    font-size: 60px;
+    font-family: Notable;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .Pizza {
+    width: 375px;
+    height: 182px;
+    position: absolute;
+    left: 120px;
+    top: 85px;
+    color: #914E4E;
+    font-size: 46px;
+    font-family: Charmonman;
+    font-weight: 500;
+    letter-spacing: 21.6px;
+    opacity:1;
+    
+  }
+  
+  .About, .ContactUs, .More, .Home {
+    position: absolute;
+    color: white;
+    font-size: 21px;
+    font-family: Barlow;
+    font-weight: 270;
+    word-wrap: break-word;
+  }
+  
+  .About {
+    
+    left: 70px;
+    top: -27px;
+  }
+  
+  .ContactUs {
+   
+    left: 260px;
+    top: -27px;
+  }
+  
+  .More {
+   
+    left: 500px;
+    top: -25px;
+  }
+  
+  .Home {
+   
+    left: 365px;
+    top: 65px;
+  }
+  
+  .Rectangle2 {
+    width: 1476px;
+    height: 25px;
+    position: absolute;
+    top: 19px;
+    background: #914E4E;
+  }
+  
+  .ChicagoStyleThinCrustPizzaThatEvenTexansWillLove {
+    width: 2147px;
+    height: 15px;
+    position: absolute;
+    left: 455px;
+    top: 25px;
+    color: #CDCF93;
+    font-size: 13px;
+    font-family: Kelly Slab;
+    font-weight: 400;
+    letter-spacing: 1px;
+    word-wrap: break-word;
+  }
+  
+  .Rectangle3 {
+    width: 665px;
+    height: 43px;
+    position: absolute;
+    left: 373px;
+    top: 326px;
+    background: white;
+    border-radius: 1000000px;
+    opacity:0.8;
+  }
+  
+  .Frame {
+    width: 39px;
+    height: 39px;
+    position: absolute;
+    left: 264px;
+    top: 480px;
+  }
+  
+  .Vector {
+    width: 29.25px;
+    height: 29.25px;
+    position: absolute;
+    left: 4.87px;
+    top: 4.87px;
+    background: #434343;
+  }
+  
+  .SearchYourLocationToFindOurPizzaOutletsNearYou {
+    width: 799px;
+    position: absolute;
+    left: 450px;
+    top: 335.8px;
+    opacity: 0.5;
+    color: black;
+    font-size: 13.9px;
+    font-family:Poppins, sans-serif;
+    font-weight: 400;
+    letter-spacing: 0.66px;
+    word-wrap: break-word;
+  }
+  
